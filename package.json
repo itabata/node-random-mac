@@ -1,11 +1,11 @@
 {
   "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
-  "name": "random-mac",
+  "name": "tea-random-mac",
   "description": "Generate a random Mac Address",
   "version": "0.0.5",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bahamas10/node-random-mac.git"
+    "url": "git+https://github.com/itabata/node-random-mac.git"
   },
   "scripts": {
     "test": "node tests/random-mac.js"
